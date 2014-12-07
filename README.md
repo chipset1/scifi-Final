@@ -1,7 +1,7 @@
 scifi-Final
 ===========
 
-Twine game made for class. 
+Twine game made for science fiction class. 
 
 To modifiy the game. Download Twine here: http://twinery.org/
 
