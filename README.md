@@ -1,10 +1,12 @@
-scifi-Final
+scifi-Final Twine Game
 ===========
 
 Twine game made for science fiction class. 
 
 To modifiy the game: 
+
 Download Twine here: http://twinery.org/
+
 then open and modify the .tws file.
 
 Play it here:
