@@ -1,7 +1,7 @@
 scifi-Final Twine Game
 ===========
 
-Twine game made for science fiction class. 
+Twine game made for science fiction class. There are a ton of typos but hopefully it will help in learning more about twine
 
 To modifiy the game: 
 
